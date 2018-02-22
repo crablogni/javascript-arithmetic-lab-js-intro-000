@@ -1,6 +1,6 @@
 function add(a,b){
-var a = number;
-var b = number;
+var a = integer;
+var b = integer;
 var sum = a + b;
 return sum;
 }
