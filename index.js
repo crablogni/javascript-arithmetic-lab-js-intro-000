@@ -1,12 +1,12 @@
 function add(a,b){
-return a+b;
+  return a+b;
 }
-function substract(){
-
+function substract(a,b){
+  return a-b;
 }
-function multiply(){
-
+function multiply(a,b){
+  return a*b;
 }
-function division(){
-
+function division(a,b){
+  return a/b;
 }
