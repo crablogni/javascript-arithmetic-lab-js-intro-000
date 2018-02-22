@@ -1,5 +1,7 @@
 function add(a,b){
-  returns ${a}+${b};
+var a = this.a;
+var b = this.b;
+  returns a + b;
 }
 function substract(){
 
